@@ -1,7 +1,7 @@
 # Traefik Cloudflare Real IP Plugin
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Cloudflare+Real+IP+Plugin;Get+the+True+Client+IP+in+Traefik" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F77F00&width=435&lines=CLoudflare+Real+IP+Plugin;Get+the+True+Client+IP+in+Traefik" alt="Typing SVG" /></a>
 </p>
 
 ## Disclaimer & Original Work
