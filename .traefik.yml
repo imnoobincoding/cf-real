@@ -1,7 +1,7 @@
 
 displayName: ReaL IP from Cloudflare
 type: middleware
-import: github.com/vincentinttsh/cloudflareip
+import: github.com/imnoobincoding/cf-real
 
 summary: get real IP from Cloudflare 
 
