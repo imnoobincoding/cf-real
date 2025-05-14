@@ -1,3 +1,3 @@
-module github.com/vincentinttsh/cloudflareip
+module github.com/imnoobincoding/cf-real
 
 go 1.15
